@@ -21,9 +21,7 @@ const App = () => {
     }
   };
 
-  const openAnimeInfo() = async () => {
-    
-  }
+
 
   return (
     <div className="App">
